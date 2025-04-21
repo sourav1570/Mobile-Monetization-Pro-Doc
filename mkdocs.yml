@@ -1,0 +1,45 @@
+site_name: DOCUMENTATION
+nav:
+  - MOBILE MONETIZATION PRO:
+    - Get Started: GetStarted.md
+    - Admob Ads Setup: PlayerSetup.md
+  - SUPPORT: Support.md
+docs_dir: docs
+use_directory_urls: false
+theme:
+  name: material
+  logo: Images/Logo.png
+  favicon: Images/Logo.png
+  custom_dir: docs/overrides
+  nav_style: default
+  features:
+    - navigation.tabs
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.copy.code
+    - prev_next_buttons
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: white
+      accent: white
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: black
+      accent:  black
+plugins:
+  - search
+extra_css:
+  - overrides/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/BeGy5hhyNj
+    - icon: fontawesome/solid/envelope
+      link: https://mail.google.com/
