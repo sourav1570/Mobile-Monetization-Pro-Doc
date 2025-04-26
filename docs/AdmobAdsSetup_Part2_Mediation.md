@@ -1,16 +1,16 @@
-# <span font-weight:bold;">Admob Ads Part-1</span>
+# <span font-weight:bold;">Admob Ads Mediation Part-2</span>
 
 <div class="video-container">
-    <iframe width="700" height="405" src="https://www.youtube.com/embed/bG5cBL2MUm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="700" height="405" src="https://www.youtube.com/embed/Lb2_CzAKLuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Introduction
 
-In this video, we take the first step in integrating **Admob Ads** into your mobile game using **Mobile Monetization Pro**.
+In this video, we will be integrating **Admob Ads Mediation** into your mobile game using **Mobile Monetization Pro**.
 
 You'll learn how to:
 
-- Set up your Admob account.
+- Set up your Admob account for Mediation.
 
 - Configure Admob SDK in Unity.
 

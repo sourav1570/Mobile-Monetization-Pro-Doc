@@ -1,9 +1,27 @@
 site_name: DOCUMENTATION
 nav:
   - MOBILE MONETIZATION PRO:
-    - Home: index.md
+    ## - Home: index.md
     - Get Started: GetStartedWithMobileMonetizationPro.md
-    - Admob Ads Setup: AdmobAdsSetup.md
+    - Admob Ads Part-1: AdmobAdsSetup.md
+    - Admob Ads Mediation Part-2: AdmobAdsSetup_Part2_Mediation.md
+    - Admob Ads Callback Part-3: AdmobAdsSetup_Part3.md
+    - LevelPlay Ads Part-1: LevelPlayAdsSetup.md
+    - LevelPlay Ads Part-2: LevelPlayAdsCallbacks.md
+    - Applovin Ads Part-1: ApplovinSetup.md
+    - Applovin Ads Part-2: ApplovinMediationSetup.md
+    - LiftOff Ads: VungleAds.md
+    - Setup GDPR: SetupGDPR.md
+    - Setup App Tracking Transparency: SetupATT.md
+    - In App Purchase Setup Part-1: SetupIAPOnStores.md
+    - In App Purchase Setup Part-2: SetupIAPInUnity.md
+    - Local Mobile Notifications: LocalNotifications.md
+    - Remote Notifications: RemoteNotifications.md
+    - In App Update: InAppUpdate.md
+    - Rate Game Popup: RateGame.md
+    - Internet Connectivity Checks: NoInternetChecks.md
+    - Cross-Promotion: CrossPromotion.md
+    - Firebase Analytics: FirebaseAnalytics.md
   - SUPPORT: SupportMobileMonetizationPro.md
 docs_dir: docs
 use_directory_urls: false
@@ -44,3 +62,5 @@ extra:
       link: https://discord.com/invite/BeGy5hhyNj
     - icon: fontawesome/solid/envelope
       link: https://mail.google.com/
+
+
