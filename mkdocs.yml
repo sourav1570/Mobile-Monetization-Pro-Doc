@@ -1,8 +1,7 @@
 site_name: DOCUMENTATION
 nav:
   - MOBILE MONETIZATION PRO:
-    ## - Home: index.md
-    - Get Started: GetStartedWithMobileMonetizationPro.md
+    - Get Started: index.md
     - Admob Ads Part-1: AdmobAdsSetup.md
     - Admob Ads Mediation Part-2: AdmobAdsSetup_Part2_Mediation.md
     - Admob Ads Callback Part-3: AdmobAdsSetup_Part3.md

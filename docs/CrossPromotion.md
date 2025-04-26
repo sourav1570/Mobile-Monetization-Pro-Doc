@@ -31,77 +31,77 @@ The tutorial focuses on implementing **Cross-Promotion** within a game, providin
 </tr>
 
 <tr>
-<td><b>ChooseCrossPromoType</b></td>
+<td>ChooseCrossPromoType</td>
 <td>Select the type of cross-promotion to display.</td>
 </tr>
 
 <tr>
-<td><b>videoPlayer</b></td>
+<td>videoPlayer</td>
 <td>Video player component used to play video cross-promotions.</td>
 </tr>
 
 <tr>
-<td><b>ChooseDisplayOption</b></td>
+<td>ChooseDisplayOption</td>
 <td>Choose how to display the sprites.</td>
 </tr>
 
 <tr>
-<td><b>RawImageComponent</b></td>
+<td>RawImageComponent</td>
 <td>RawImage component for displaying video or image.</td>
 </tr>
 
 <tr>
-<td><b>RenderTextureComponent</b></td>
+<td>RenderTextureComponent</td>
 <td>Render texture component for the video player.</td>
 </tr>
 
 <tr>
-<td><b>ImageComponent</b></td>
+<td>ImageComponent</td>
 <td>Image component for displaying image cross-promotions.</td>
 </tr>
 
 <tr>
-<td><b>AddVideos</b></td>
+<td>AddVideos</td>
 <td>List of video cross-promotions to display.</td>
 </tr>
 
 <tr>
-<td><b>AddSprites</b></td>
+<td>AddSprites</td>
 <td>List of image cross-promotions to display.</td>
 </tr>
 
 <tr>
-<td><b>DecideWhenToShowNextPromo</b></td>
+<td>DecideWhenToShowNextPromo</td>
 <td>Determine when the next promo should be displayed.</td>
 </tr>
 
 <tr>
-<td><b>NoOfAppOpensToCheckBeforeNewPromo</b></td>
+<td>NoOfAppOpensToCheckBeforeNewPromo</td>
 <td>Number of app opens to check before showing a new cross-promotion.</td>
 </tr>
 
 <tr>
-<td><b>NoOfSessionsToCheckBeforeNewPromo</b></td>
+<td>NoOfSessionsToCheckBeforeNewPromo</td>
 <td>Number of sessions to check before showing a new cross-promotion.</td>
 </tr>
 
 <tr>
-<td><b>MinTimeToWaitBeforeChangingPromo</b></td>
+<td>MinTimeToWaitBeforeChangingPromo</td>
 <td>Minimum time (in seconds) to wait before changing the cross-promotion.</td>
 </tr>
 
 <tr>
-<td><b>MaxTimeToWaitBeforeChangingPromo</b></td>
+<td>MaxTimeToWaitBeforeChangingPromo</td>
 <td>Maximum time (in seconds) to wait before changing the cross-promotion.</td>
 </tr>
 
 <tr>
-<td><b>StopCrossPromotionAfterClick</b></td>
+<td>StopCrossPromotionAfterClick</td>
 <td>If true, stop cross-promotion after the user clicks.</td>
 </tr>
 
 <tr>
-<td><b>CrossPromotionToDeactive</b></td>
+<td>CrossPromotionToDeactive</td>
 <td>GameObject to deactivate when cross-promotion ends.</td>
 </tr>
 

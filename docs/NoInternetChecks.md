@@ -60,7 +60,7 @@ In this video, you'll learn how to integrate **Rate Game Popup** into your Unity
 </tr>
 
 <tr>
-<td><b>TimeScaleWhenNoInternet</b></td>
+<td>TimeScaleWhenNoInternet</td>
 <td>Time scale when there is no internet connection (0 = paused).</td>
 </tr>
 
