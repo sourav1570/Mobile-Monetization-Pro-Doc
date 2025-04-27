@@ -21,6 +21,9 @@ nav:
     - Internet Connectivity Checks: NoInternetChecks.md
     - Cross-Promotion: CrossPromotion.md
     - Firebase Analytics: FirebaseAnalytics.md
+    - Solutions:
+       - Fix Win32 Exception Error: FixWin32Exception.md
+       - Fix Android Specific Scripts: AndroidSpecificScripts.md
   - SUPPORT: SupportMobileMonetizationPro.md
 docs_dir: docs
 use_directory_urls: false
